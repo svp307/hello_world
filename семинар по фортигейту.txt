@@ -1,0 +1,8 @@
+﻿
+
+
+Вопросы на семинар по фортигейту:
+1. Диагностические инструменты: PacketTracer, Capture, ACL Hitcount, sh connection - с флагами состояния TCP сессии, Ping TCP
+2. Что такое Workflow
+3. Есть ли поддержка, аналогичная TAC
+4. про балансировщик, функционал IPS (application control), антивирус
